@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<remote_servers>
+	<remote_server>
+	    <ip_addr>192.168.2.37</ip_addr>
+        <tmp_path>/home/mg_tmp/</tmp_path>
+	    <backup_src_path>/tmp/srcbackup</backup_src_path>
+        <backup_des_path>/home/backup/</backup_des_path>
+	    <ssh_port>22</ssh_port>
+	    <ssh_user>mgadmin</ssh_user>
+	    <ssh_password>mgadminoo!@#$</ssh_password>
+	    <sftp_port>22</sftp_port>
+	    <sftp_user>mgadmin</sftp_user>
+	    <sftp_password>mgadminoo!@#$</sftp_password>	
+	</remote_server>
+    <remote_server>
+        <ip_addr>169.45.128.185</ip_addr>
+        <tmp_path>/home/mg_tmp/</tmp_path>
+        <backup_src_path>/tmp/srcbackup</backup_src_path>
+        <backup_des_path>/home/backup/</backup_des_path>
+        <ssh_port>22</ssh_port>
+        <ssh_user>ofkadmin</ssh_user>
+        <ssh_password>Ofk4dmin636p</ssh_password>
+        <sftp_port>22</sftp_port>
+        <sftp_user>mgadmin</sftp_user>
+        <sftp_password>mgadminoo!@#$</sftp_password>    
+    </remote_server>        
+
+</remote_servers>
